@@ -1,0 +1,143 @@
+html {
+    display: block;
+}
+
+.header {
+    text-align: center;
+    color: rgb(175, 68, 68);
+    text-decoration-line: underline;
+}
+
+.color-main {
+    border: 4px solid;
+    border-color: #4fe0b0 #d957d9 #2d5dcc #efd9ca;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.cool-blue-panel {
+    background-color: #2d5dcc;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.cool-blue {
+    color: #fff;
+}
+
+.pink-panel {
+    background-color: #d957d9;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.mint-green-panel {
+    background-color: #4fe0b0;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.beige-panel {
+    background-color: #efd9ca;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.font-container {
+    display: block;
+    border: 4px solid;
+    border-color: #4fe0b0 #d957d9 #2d5dcc #efd9ca;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.source-code-pro {
+    width: 45%;
+    display: inline-block;
+    font-family:'Source Code Pro', monospace;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.source-code-pro-regular {
+    font-family:'Source Code Pro', monospace;
+    font-style: normal;
+}
+
+.source-code-pro-bold {
+    font-family:'Source Code Pro', monospace;
+    font-weight: 700;
+}
+
+.source-code-pro-italic {
+    font-family:'Source Code Pro', monospace;
+    font-style: italic;
+}
+
+.nunito-sans {
+    width: 45%;
+    display: inline-block;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.nunito-sans-regular {
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+}
+
+.nunito-sans-bold {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+}
+
+.nunito-sans-italic {
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: italic;
+}
+
+.poppins {
+    width: 45%;
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.poppins-regular {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+}
+
+.poppins-bold {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.poppins-itlaic {
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+}
+
+.text-styles {
+    border: 4px solid;
+    border-color: #4fe0b0 #d957d9 #2d5dcc #efd9ca;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px auto;
+}
